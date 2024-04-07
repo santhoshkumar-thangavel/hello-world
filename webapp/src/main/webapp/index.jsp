@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-	 <body style="background-color:Orange;">
+	 <body style="background-color:blue;">
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
@@ -32,7 +32,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Welcome Santhosh Kumar Vel & K G Bagyam </h1>
+   <h1> Lord Muruga </h1>
 
   
 </form>
