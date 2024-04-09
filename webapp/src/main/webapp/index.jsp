@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-	 <body style="background-color:brown;">
+	 <body style="background-color:Orange;">
     <h1> DevOps Learning</h1>
     <h2> Attach is the best defence </h2>
     <p>Please fill in this form to create an account.</p>
