@@ -1,7 +1,8 @@
 <form action="action_page.php">
   <div class="container">
 	 <body style="background-color:Orange;">
-    <h1>New user Register for DevOps Learning</h1>
+    <h1> DevOps Learning</h1>
+    <h2> Attach is the best defence </h2>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -32,7 +33,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Lord Muruga </h1>
+   <h1> Keep Trying !!! </h1>
 
   
 </form>
